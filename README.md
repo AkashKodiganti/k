@@ -1,2 +1,1 @@
-# akash
-Personal Website
+# This is a Personal Website
